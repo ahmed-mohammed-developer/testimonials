@@ -1,0 +1,13 @@
+.card-dark {
+    width: 300px;
+    cursor: pointer;
+    background-color: black !important;
+    color: #fff !important;
+}
+.card-dark img {
+    height: fit-content;
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+}
